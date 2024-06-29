@@ -1,0 +1,24 @@
+{
+  "name": "nightmaresrooms",
+  "version": "1.0.0",
+  "description": "a server for manage rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "devtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nightmaresrooms"
+  },
+  "keywords": [
+    "server",
+    "nodejs"
+  ],
+  "author": "yumi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
